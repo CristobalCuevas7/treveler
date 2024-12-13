@@ -1,0 +1,162 @@
+{
+    "email": "E-mail",
+    "password": "Senha",
+    "login": "Conecte-se",
+    "register": "registrar",
+    "forgot_password": "Palavra-chave esquecida",
+    "contact_us": "Contate-nos",
+    "email_empty": "Email vazio",
+    "password_empty": "Senha vazia",
+    "password_do_not_match": "Senha não corresponde",
+    "repeat_password": "Repetir a senha",
+    "create_account": "Criar uma conta",
+    "terms_and_conditions_checkbox_pre": "Eu li e aceito o",
+    "terms_and_conditions_checkbox_post": "Política de privacidade do viajante",
+    "terms_and_conditions_checkbox": "termos e Condições",
+    "register_description": "Digite seu usuário e senha",
+    "recover_your_password": "Recuperar senha",
+    "recover_your_password_description": "Digite seu e -mail para receber o código de verificação",
+    "send_code": "Enviar código",
+    "verify_code": "Código de verificação",
+    "verify_code_description": "Digite seu código de verificação",
+    "validate": "Validar",
+    "accept": "Aceitar",
+    "change_your_password": "Mude sua senha",
+    "change_your_password_description": "Digite sua nova senha",
+    "interest_points": "Recomendações",
+    "guides": "Guias treveler",
+    "profile": "Perfil",
+    "no_guides_found": "Nenhum guias foi encontrado",
+    "unblock": "Desbloquear",
+    "point_x": "Ponto {number}",
+    "@point_x": {
+        "description": "El número del punto",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "select_payment": "Selecione sua opção de pagamento",
+    "select_payment_description": "Selecione uma opção de pagamento para conhecer a disponibilidade de ações e ofertas relevantes.",
+    "pay": "Pagar",
+    "discount_code": "Código de cupão",
+    "total": "Total",
+    "option_x": "{number} opção",
+    "@option_x": {
+        "description": "El número de la opción",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "currency": "{number} €",
+    "@currency": {
+        "description": "El número de la opción",
+        "placeholders": {
+            "number": {
+                "type": "double",
+                "example": "2"
+            }
+        }
+    },
+    "discount_x": "{number}% desconto",
+    "@discount_x": {
+        "description": "Porcentaje de descuento",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "discount_applied_x": "Desconto de {percentage}% aplicado - Poupa {amount}",
+    "@discount_applied_x": {
+        "description": "Mensagem de desconto mostrando a percentagem e o valor poupado",
+        "placeholders": {
+            "percentage": {
+                "type": "int",
+                "example": "10"
+            },
+            "amount": {
+                "type": "String",
+                "example": "5.99"
+            }
+        }
+    },
+    "days_x": "{number, plural, =1 {1 dia} other {{number} dias}}",
+    "@days_x": {
+        "description": "El número de la opción",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "instagram_x": "Instagram: {instagram}",
+    "@instagram_x": {
+        "description": "Cuenta de instagram",
+        "placeholders": {
+            "instagram": {
+                "type": "String",
+                "example": "instagram"
+            }
+        }
+    },
+    "website_x": "Site: {website}",
+    "@website_x": {
+        "description": "La página web",
+        "placeholders": {
+            "website": {
+                "type": "String",
+                "example": "Website"
+            }
+        }
+    },
+    "navigate_here": "Leve -me aqui",
+    "profile_change_password": "Alterar a senha",
+    "profile_change_language": "Alterar o guia de idiomas de áudio",
+    "profile_bookings": "As minhas compras",
+    "profile_log_out": "Sair",
+    "profile_delete_account": "Deletar conta",
+    "profile_contact_us" : "Contate-nos",
+    "profile_tips" : "Conselhos",
+    "language": "Linguagem",
+    "language_description": "Escolha um idioma para seus guias de áudio",
+    "yes": "Sim",
+    "no": "Não",
+    "logout_confirmation": "Tem certeza de que deseja fechar a sessão?",
+    "delete_account_confirmation": "Tem certeza de que deseja apagar sua conta?",
+    "all": "Todos",
+    "per_person": "Por pessoa",
+    "booking": "Compras",
+    "activate": "Ativar",
+    "used": "Used",
+    "activate_booking_confirmation": "Tem a certeza de que pretende ativar a sua compra agora?",
+    "add_booking_description": "Introduzir o código de compra",
+    "cancel": "Cancelar",
+    "code": "Código",
+    "wait_do_not_close": "Espere, não feche esta tela.",
+    "tips_title": "Conselhos",
+    "tips_subtitle": "para uma utilização óptima da treveler",
+    "tips_one": "Certifique-se de que o seu telemóvel tem a bateria carregada a 100%.",
+    "tips_two": "Utilize auscultadores para ouvir melhor o som e ter assim uma melhor experiência.",
+    "tips_three": "Usar sapatos confortáveis.",
+    "tips_four": "Escolham bem os vossos horários. A maioria dos turistas sai à mesma hora. Lembre-se que outra grande vantagem do guia treveler é o facto de poder desfrutar dele ao seu próprio ritmo e de forma independente. A melhor altura para visitar os monumentos é a partir das 8 horas.",
+    "tip_x": "Conselho {number}",
+    "@tip_x": {
+        "description": "Number Tip",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "redeem": "Resgatar",
+    "purchase_code": "Código de Compra"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "742858667566",
+    "project_id": "treveler-b50c2",
+    "storage_bucket": "treveler-b50c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742858667566:android:e58df33c5f14c72fd791bf",
+        "android_client_info": {
+          "package_name": "com.okapolio.treveler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLfQKL0d1uicX6pwpao0tgvrfWKoEOsPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742858667566:android:3e4a299f10364769d791bf",
+        "android_client_info": {
+          "package_name": "com.okapolio.treveler.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLfQKL0d1uicX6pwpao0tgvrfWKoEOsPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

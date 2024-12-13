@@ -1,0 +1,162 @@
+{
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "login": "Se connecter",
+    "register": "enregistrer",
+    "forgot_password": "Mot de passe oublié",
+    "contact_us": "Contactez-nous",
+    "email_empty": "E-mail vide",
+    "password_empty": "Mot de passe vide",
+    "password_do_not_match": "Le mot de passe ne correspond pas",
+    "repeat_password": "Répéter le mot de passe",
+    "create_account": "Créer un compte",
+    "terms_and_conditions_checkbox_pre": "J'ai lu et accepte le",
+    "terms_and_conditions_checkbox_post": "Politique de confidentialité du voyageur",
+    "terms_and_conditions_checkbox": "termes et conditions",
+    "register_description": "Entrez votre utilisateur et votre mot de passe",
+    "recover_your_password": "Récupérer le mot de passe",
+    "recover_your_password_description": "Entrez votre e-mail pour recevoir le code de vérification",
+    "send_code": "Envoyer le code",
+    "verify_code": "Le code de vérification",
+    "verify_code_description": "Entrez votre code de vérification",
+    "validate": "Valider",
+    "accept": "Accepter",
+    "change_your_password": "changez votre mot de passe",
+    "change_your_password_description": "Entrez votre nouveau mot de passe",
+    "interest_points": "Recommandations",
+    "guides": "Guides treveler",
+    "profile": "Profil",
+    "no_guides_found": "Aucun guide n'a été trouvé",
+    "unblock": "Déverouiller",
+    "point_x": "Point {number}",
+    "@point_x": {
+        "description": "El número del punto",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "select_payment": "Sélectionnez votre option de paiement",
+    "select_payment_description": "Sélectionnez une option de paiement pour connaître la disponibilité des actions et des offres pertinentes.",
+    "pay": "Payer",
+    "discount_code": "Code promo",
+    "total": "Total",
+    "option_x": "{number} Option",
+    "@option_x": {
+        "description": "El número de la opción",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "currency": "{number} €",
+    "@currency": {
+        "description": "El número de la opción",
+        "placeholders": {
+            "number": {
+                "type": "double",
+                "example": "2"
+            }
+        }
+    },
+    "discount_x": "{number}% remise",
+    "@discount_x": {
+        "description": "Porcentaje de descuento",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "discount_applied_x": "Réduction de {percentage}% appliquée - {amount} de réduction",
+    "@discount_applied_x": {
+        "description": "Message de réduction indiquant le pourcentage et le montant économisé",
+        "placeholders": {
+            "percentage": {
+                "type": "int",
+                "example": "10"
+            },
+            "amount": {
+                "type": "String",
+                "example": "5.99"
+            }
+        }
+    },
+    "days_x": "{number, plural, =1 {1 jour} other {{number} jours}}",
+    "@days_x": {
+        "description": "El número de la opción",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "instagram_x": "Instagram: {instagram}",
+    "@instagram_x": {
+        "description": "Cuenta de instagram",
+        "placeholders": {
+            "instagram": {
+                "type": "String",
+                "example": "instagram"
+            }
+        }
+    },
+    "website_x": "Site Web: {website}",
+    "@website_x": {
+        "description": "La página web",
+        "placeholders": {
+            "website": {
+                "type": "String",
+                "example": "Website"
+            }
+        }
+    },
+    "navigate_here": "Emmenez-moi ici",
+    "profile_change_password": "Changer le mot de passe",
+    "profile_change_language": "Guide de la langue audio modifie",
+    "profile_bookings": "Mes achats",
+    "profile_log_out": "Se déconnecter",
+    "profile_delete_account": "Supprimer le compte",
+    "profile_contact_us" : "Contactez-nous",
+    "profile_tips" : "Conseils",
+    "language": "langage",
+    "language_description": "Choisissez une langue pour vos guides audio",
+    "yes": "Ouais",
+    "no": "Non",
+    "logout_confirmation": "Êtes-vous sûr de vouloir fermer la session?",
+    "delete_account_confirmation": "Êtes-vous sûr de vouloir effacer votre compte?",
+    "all": "Tous",
+    "per_person": "Par personne",
+    "booking": "Achats",
+    "activate": "Activer",
+    "used": "Used",
+    "activate_booking_confirmation": "Êtes-vous sûr de vouloir activer votre achat maintenant?",
+    "add_booking_description": "Saisir le code d'achat",
+    "cancel": "Annuler",
+    "code": "Code",
+    "wait_do_not_close": "Attendez, ne fermez pas cet écran.",
+    "tips_title": "Conseils",
+    "tips_subtitle": "pour une utilisation optimale de treveler",
+    "tips_one": "Veille à ce que ton téléphone soit chargé à 100 %.",
+    "tips_two": "Utilise des écouteurs pour mieux entendre le son et avoir ainsi une meilleure expérience.",
+    "tips_three": "Portez des chaussures confortables.",
+    "tips_four": "Choisis habilement les horaires. La plupart des touristes sortent à la même heure. N'oublie pas qu'un autre grand avantage du guide treveler, c'est que tu peux en profiter à ton propre rythme et de manière autonome. Le meilleur moment pour visiter les monuments est à partir de 8 heures du matin.",
+    "tip_x": "Conseil {number}",
+    "@tip_x": {
+        "description": "Number Tip",
+        "placeholders": {
+            "number": {
+                "type": "int",
+                "example": "2"
+            }
+        }
+    },
+    "redeem": "Échanger",
+    "purchase_code": "Code d'Achat"
+}
